@@ -14,3 +14,5 @@ getExchangeData.js: collects exchange rates for api using jquery
 background.js: collects user click on browser_action. sends messages to main content script (convertToNaira.js)
 
 jquery-3.2.1.min.js: jquery library
+
+money.js: Library that handles currency conversion
