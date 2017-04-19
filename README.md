@@ -1,7 +1,7 @@
 # converter-extension
 This a browser extension for chrome that converts Dollar prices on a webpage to Naira, using the exchange rates gotten from openexchangerates.com
 
-Author: Osayamen Osareting
+Author: Osayamen Osaretin
 Email: superyamen@gmail.com
 
 To use this extension(while I find the money to get a developer account):
@@ -10,14 +10,14 @@ To use this extension(while I find the money to get a developer account):
   3. Enable developer mode by clicking the toggle button on the top right
   4. Drag the folder to this page and it will automatically be added to your browser extensions.
   5. Enable and the blue icon will appear next to the address icon
-  6. Use on any page that has dollar prices and they'd become Naira prices.
+  6. Use on any page that has dollar prices and they'd become Naira prices :).
      (try https://www.amazon.com/gp/goldbox/ref=nav_cs_gb)
   
   or:
   
   4. click on the "load unpacked extension" button
   5. Navigate to the converter folder and select it
-  6. Use on any page that has dollar prices and they'd become Naira prices.
+  6. Use on any page that has dollar prices and they'd become Naira prices :).
      (try https://www.amazon.com/gp/goldbox/ref=nav_cs_gb)
   
   
