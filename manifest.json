@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Dollar to Naira converter",
+  "description": "This extension converts all dollar prices to naira prices",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+
+    "background": {
+      "scripts": ["background.js"]
+    },
+
+    "content_scripts":[
+      {
+        "matches": ["<all_urls>"],
+        "js" : ["jquery-3.2.1.min.js","money.js", "getExchangeData.js","convertToNaira.js"]
+      }
+    ]
+}
